@@ -6,3 +6,5 @@ output: html_document
 ```{r}
 AreaCirculo <- function(R) pi * R^2
 AreaCirculo(5)
+
+AreaTriangulo <- function(b, h) (b*h)/2
