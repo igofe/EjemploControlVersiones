@@ -8,4 +8,3 @@ AreaCirculo <- function(R) pi * R^2
 AreaCirculo(5)
 
 AreaTriangulo <- function(b, h) (b*h)/2
-AreaRectangulo <- function(L, l) L*l
