@@ -9,3 +9,5 @@ AreaCirculo(5)
 
 AreaTriangulo <- function(b, h) (b*h)/2
 AreaRectangulo <- function(L, l) L*l
+
+AreaTrapecio <- function(b, B, H) (b + B)*H/2
