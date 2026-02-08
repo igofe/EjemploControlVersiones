@@ -1,0 +1,8 @@
+---
+title: "Areas"
+output: html_document
+---
+
+```{r}
+AreaCirculo <- function(R) pi * R^2
+AreaCirculo(3)
